@@ -1,0 +1,126 @@
+[
+  {
+    "tag": "Niall Breslin",
+    "name": "Niall Breslin",
+    "country": "Ireland",
+    "photo": "niall.jpg",
+    "photoCredit": "Photo: credit",
+    "bio": [
+      "Niall Breslin is an Irish multi-platinum musician, composer, and cinematic storyteller whose work moves between sound, spoken word, and visual art. His music draws on the deeper elements of Irish land, its history, its energy, sitting at the meeting point of composition and contemplation.",
+      "His debut album, The Place That Has Never Been Wounded was named Irish Times 'Irish' Album of the Year. The Irish Times called it work where his “instinctive, deeply empathetic playing burrows deeper in the head, resulting in a lingering serenity that politely but firmly shuts out the noise.” Adam Clayton of U2 described it as “a deeply affirming spiritual work that heals and captivates the audience, releasing something in you that you didn't even know you'd been carrying.”",
+      "His latest work, Meditations, is a spoken-word reimagining of the album, featuring Irish philosophers and poets, among them Michael Harding, Noirín Ní Riain, and Pádraig Ó Tuama."
+    ],
+    "listenEmbed": "https://open.spotify.com/album/1JwLGnsKxcWmCEJ6PDPvZU",
+    "published": true
+  },
+  {
+    "tag": "Joaquin Pastor and Patrick Logothetti",
+    "name": "Joaquin Pastor and Patrick Logothetti",
+    "country": "USA",
+    "photo": "",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Francis and Gareth",
+    "name": "Francis and Gareth",
+    "country": "USA / Ireland",
+    "photo": "francisandgareth.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Rose Riebl",
+    "name": "Rose Riebl",
+    "country": "Australia",
+    "photo": "roseriebl.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "TJARA",
+    "name": "TJARA",
+    "country": "Iceland",
+    "photo": "tjara.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Alexandra Hamilton-Ayres",
+    "name": "Alexandra Hamilton-Ayres",
+    "country": "UK",
+    "photo": "alexandrahamilton-ayres.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Jakob Lindhagen and Dött ljus",
+    "name": "Jakob Lindhagen and Dött ljus",
+    "country": "Sweden",
+    "photo": "",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Sin Fang",
+    "name": "Sin Fang",
+    "country": "Iceland",
+    "photo": "sinfang.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Kjartan Holm",
+    "name": "Kjartan Holm",
+    "country": "Iceland",
+    "photo": "kjartanholm.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Atli Örvarsson",
+    "name": "Atli Örvarsson",
+    "country": "Iceland",
+    "photo": "atliorvarsson.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Talos",
+    "name": "Talos",
+    "country": "Ireland",
+    "photo": "talos.jpg",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  },
+  {
+    "tag": "Paul Noonan and Brian Crosby",
+    "name": "Paul Noonan and Brian Crosby",
+    "country": "Ireland",
+    "photo": "",
+    "photoCredit": "",
+    "bio": [],
+    "listenEmbed": "",
+    "published": true
+  }
+]
